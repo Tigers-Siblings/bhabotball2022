@@ -1,6 +1,6 @@
 # bhabotball2022
-2022 BHA Botball
+## 2022 BHA Botball
 
 
 
-Code from robotics competition
+### Code from robotics competition
